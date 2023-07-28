@@ -15,13 +15,13 @@ const types = [
         id: "inprogess",
         name: "In Progress",
         description: "A Task that is currently being worked on",
-        color: "bg-red-500"
+        color: "bg-blue-500"
     },
     {
         id: "done",
         name: "Done",
         description: "A Task that has been completed",
-        color: "bg-red-500"
+        color: "bg-green-500"
     }
 
 ]
